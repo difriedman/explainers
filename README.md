@@ -10,11 +10,11 @@ All diagrams are authored in [Excalidraw](https://excalidraw.com/) and stored as
 
 | Preview | Diagram | Description |
 | --- | --- | --- |
-| <img src="diagrams/previews/Fabric%20overview%20explainer.png" alt="Fabric overview preview" width="160"> | [Fabric overview](diagrams/Fabric%20overview%20explainer.excalidraw) | High-level view of the Microsoft Fabric platform and its workloads. |
-| <img src="diagrams/previews/Fabric%20dev%20cycle%20explainer.png" alt="Fabric dev cycle preview" width="160"> | [Fabric dev cycle](diagrams/Fabric%20dev%20cycle%20explainer.excalidraw) | End-to-end development lifecycle for Fabric solutions. |
-| <img src="diagrams/previews/Fabric%20costs%20explainer.png" alt="Fabric costs explainer preview" width="160"> | [Fabric costs explainer](diagrams/Fabric%20costs%20explainer.excalidraw) | How Fabric capacity, consumption, and billing fit together. |
-| <img src="diagrams/previews/Fabric%20governance%20and%20security%20explainer.png" alt="Fabric governance and security preview" width="160"> | [Fabric governance and security](diagrams/Fabric%20governance%20and%20security%20explainer.excalidraw) | Governance, security, and access-control concepts in Fabric. |
-| <img src="diagrams/previews/Power%20BI%20dev%20cycle%20explainer.png" alt="Power BI dev cycle preview" width="160"> | [Power BI dev cycle](diagrams/Power%20BI%20dev%20cycle%20explainer.excalidraw) | Development lifecycle for Power BI semantic models and reports. |
+| <a href="diagrams/previews/Fabric%20overview%20explainer.png"><img src="diagrams/previews/Fabric%20overview%20explainer.png" alt="Fabric overview preview" width="160"></a> | [Fabric overview](diagrams/Fabric%20overview%20explainer.excalidraw) | High-level view of the Microsoft Fabric platform and its workloads. |
+| <a href="diagrams/previews/Fabric%20dev%20cycle%20explainer.png"><img src="diagrams/previews/Fabric%20dev%20cycle%20explainer.png" alt="Fabric dev cycle preview" width="160"></a> | [Fabric dev cycle](diagrams/Fabric%20dev%20cycle%20explainer.excalidraw) | End-to-end development lifecycle for Fabric solutions. |
+| <a href="diagrams/previews/Fabric%20costs%20explainer.png"><img src="diagrams/previews/Fabric%20costs%20explainer.png" alt="Fabric costs explainer preview" width="160"></a> | [Fabric costs explainer](diagrams/Fabric%20costs%20explainer.excalidraw) | How Fabric capacity, consumption, and billing fit together. |
+| <a href="diagrams/previews/Fabric%20governance%20and%20security%20explainer.png"><img src="diagrams/previews/Fabric%20governance%20and%20security%20explainer.png" alt="Fabric governance and security preview" width="160"></a> | [Fabric governance and security](diagrams/Fabric%20governance%20and%20security%20explainer.excalidraw) | Governance, security, and access-control concepts in Fabric. |
+| <a href="diagrams/previews/Power%20BI%20dev%20cycle%20explainer.png"><img src="diagrams/previews/Power%20BI%20dev%20cycle%20explainer.png" alt="Power BI dev cycle preview" width="160"></a> | [Power BI dev cycle](diagrams/Power%20BI%20dev%20cycle%20explainer.excalidraw) | Development lifecycle for Power BI semantic models and reports. |
 
 > Preview images live in [diagrams/previews/](diagrams/previews/). See that folder's [README](diagrams/previews/README.md) for export conventions.
 
