@@ -1,0 +1,16 @@
+# Treat Excalidraw scene files as JSON so GitHub renders/diffs them nicely
+*.excalidraw linguist-language=JSON
+*.excalidraw text eol=lf
+
+# Normalize line endings for common text formats
+*.md   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+
+# Treat exported diagram assets as binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.svg  text eol=lf
+*.pdf  binary

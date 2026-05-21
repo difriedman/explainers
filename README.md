@@ -8,17 +8,15 @@ All diagrams are authored in [Excalidraw](https://excalidraw.com/) and stored as
 
 ### Diagrams
 
-| Diagram | Description |
-| --- | --- |
-| [Fabric overview](diagrams/Fabric%20overview.excalidraw) | High-level view of the Microsoft Fabric platform and its workloads. |
-| [Fabric dev cycle](diagrams/Fabric%20dev%20cycle.excalidraw) | End-to-end development lifecycle for Fabric solutions. |
-| [Fabric costs explainer](diagrams/Fabric%20costs%20explainer.excalidraw) | How Fabric capacity, consumption, and billing fit together. |
-| [Fabric governance and security](diagrams/Fabric%20governance%20and%20security.excalidraw) | Governance, security, and access-control concepts in Fabric. |
-| [Power BI dev cycle](diagrams/Power%20BI%20dev%20cycle.excalidraw) | Development lifecycle for Power BI semantic models and reports. |
+| Preview | Diagram | Description |
+| --- | --- | --- |
+| <img src="diagrams/previews/Fabric%20overview%20explainer.png" alt="Fabric overview preview" width="160"> | [Fabric overview](diagrams/Fabric%20overview%20explainer.excalidraw) | High-level view of the Microsoft Fabric platform and its workloads. |
+| <img src="diagrams/previews/Fabric%20dev%20cycle%20explainer.png" alt="Fabric dev cycle preview" width="160"> | [Fabric dev cycle](diagrams/Fabric%20dev%20cycle%20explainer.excalidraw) | End-to-end development lifecycle for Fabric solutions. |
+| <img src="diagrams/previews/Fabric%20costs%20explainer.png" alt="Fabric costs explainer preview" width="160"> | [Fabric costs explainer](diagrams/Fabric%20costs%20explainer.excalidraw) | How Fabric capacity, consumption, and billing fit together. |
+| <img src="diagrams/previews/Fabric%20governance%20and%20security%20explainer.png" alt="Fabric governance and security preview" width="160"> | [Fabric governance and security](diagrams/Fabric%20governance%20and%20security%20explainer.excalidraw) | Governance, security, and access-control concepts in Fabric. |
+| <img src="diagrams/previews/Power%20BI%20dev%20cycle%20explainer.png" alt="Power BI dev cycle preview" width="160"> | [Power BI dev cycle](diagrams/Power%20BI%20dev%20cycle%20explainer.excalidraw) | Development lifecycle for Power BI semantic models and reports. |
 
----
-![alt text](<diagrams/overview illustration.png>)
----
+> Preview images live in [diagrams/previews/](diagrams/previews/). See that folder's [README](diagrams/previews/README.md) for export conventions.
 
 ## How to use
 
