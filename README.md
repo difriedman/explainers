@@ -24,6 +24,10 @@ All diagrams are authored in [Excalidraw](https://excalidraw.com/) and stored as
 - **Export**: From Excalidraw, export to PNG, SVG, or PDF for use in slide decks, docs, or wikis.
 - **Embed**: Excalidraw SVG exports work well in Markdown, Loop, and PowerPoint.
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a history of additions and changes.
+
 ## Contributing / feedback
 
 These are living documents — if you spot something inaccurate or have suggestions, feel free to open an issue or PR.
