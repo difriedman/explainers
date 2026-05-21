@@ -16,6 +16,10 @@ All diagrams are authored in [Excalidraw](https://excalidraw.com/) and stored as
 | [Fabric governance and security](diagrams/Fabric%20governance%20and%20security.excalidraw) | Governance, security, and access-control concepts in Fabric. |
 | [Power BI dev cycle](diagrams/Power%20BI%20dev%20cycle.excalidraw) | Development lifecycle for Power BI semantic models and reports. |
 
+---
+![alt text](<diagrams/overview illustration.png>)
+---
+
 ## How to use
 
 - **View or edit**: Open any `.excalidraw` file in the Excalidraw web app or VS Code extension.
