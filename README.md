@@ -1,6 +1,6 @@
 # Explainers
 
-A collection of diagrams and presentation materials I've developed to help explain **Microsoft Fabric** and **Power BI** concepts. These are designed to support workshops, customer conversations, internal enablement sessions, and self-guided learning.
+A collection of diagrams and presentation materials developed by [Dan Friedman](https://www.linkedin.com/in/difriedman/) to help explain **Microsoft Fabric** and **Power BI** concepts. These are designed to support workshops, customer conversations, internal enablement sessions, and self-guided learning.
 
 ## What's inside
 
